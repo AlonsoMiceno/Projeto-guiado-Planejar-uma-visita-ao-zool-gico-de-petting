@@ -1,0 +1,14 @@
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\bin\Debug\net9.0\Exercicio.exe
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\bin\Debug\net9.0\Exercicio.deps.json
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\bin\Debug\net9.0\Exercicio.runtimeconfig.json
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\bin\Debug\net9.0\Exercicio.dll
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\bin\Debug\net9.0\Exercicio.pdb
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.AssemblyInfo.cs
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.dll
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\refint\Exercicio.dll
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.pdb
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\Exercicio.genruntimeconfig.cache
+C:\Users\Eu\Desktop\CsharpProjects\TestProject\Exercicio\obj\Debug\net9.0\ref\Exercicio.dll
